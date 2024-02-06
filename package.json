@@ -1,4 +1,16 @@
 {
   "name": "mixitup-multifilter",
   "version": "1.0.0",
+  "description": "",
+  "main": "mixitup-multifilter.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhuon/mixitup-multifilter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhuon/mixitup-multifilter/issues"
+  },
+  "homepage": "https://github.com/jhuon/mixitup-multifilter#readme"
 }
